@@ -1,0 +1,2 @@
+plex-desktop
+plexamp-bin
