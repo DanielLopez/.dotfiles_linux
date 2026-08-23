@@ -61,6 +61,7 @@ gvfs-mtp
 gvfs-nfs
 gvfs-smb
 herdr
+himalaya
 httpie
 hyprland
 hyprland-guiutils
